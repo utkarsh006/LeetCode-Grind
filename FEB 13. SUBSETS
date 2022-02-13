@@ -1,6 +1,6 @@
 //LEETCODE 78
 class Solution 
-{ public: vector<vector<int>> allsubsets;
+{ public: vector<vector<int>> allsubsets; // STORING ALL SUBSETS
            
           void generate(vector<int>&subset, int i, vector<int>&nums)
           {   if(i==nums.size())
