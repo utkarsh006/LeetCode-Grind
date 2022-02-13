@@ -3,7 +3,7 @@ class Solution
 { public: vector<vector<int>> allsubsets; // STORING ALL SUBSETS
            
           void generate(vector<int>&subset, int i, vector<int>&nums)
-          {   if(i==nums.size())
+          {   if(i==nums.size())                       // BASE CONDITION All subsets are consumed
               { allsubsets.push_back(subset);
                return;
               }
