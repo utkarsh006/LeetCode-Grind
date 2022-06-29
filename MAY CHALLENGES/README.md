@@ -14,17 +14,17 @@
 |MAY 12|Permutations II|
 |MAY 13|Populating Next Right Pointers in Each Node II|
 |MAY 14|Network Delay Time|💡|
-|MAY 15|Deepest Leaves Sum|
-|MAY 16|Shortest Path in Binary Matrix|💡|
+|MAY 15|Deepest Leaves Sum|💡|
+|MAY 16|Shortest Path in Binary Matrix|
 |MAY 17|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|💡|
-|MAY 18|Critical Connections in a Network|
+|MAY 18|Critical Connections in a Network|💡|
 |MAY 19|Longest Increasing Path in a Matrix|
-|MAY 20|Unique Paths II|
+|MAY 20|Unique Paths II|💡|
 |MAY 21|Coin Change|💡|
 |MAY 22|Palindromic Substrings|💡|
 |MAY 23|Ones and Zeroes|💡|
 |MAY 24|Longest Valid Parentheses|
-|MAY 25|Russian Doll Envelopes|
+|MAY 25|Russian Doll Envelopes|💡|
 |MAY 26|Number of 1 Bits|💡|
 |MAY 27|Number of Steps to Reduce a Number to Zero|
 |MAY 28|Missing Number|
