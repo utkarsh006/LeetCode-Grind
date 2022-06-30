@@ -29,4 +29,4 @@
 |JUN 27|Partitioning Into Minimum Number Of Deci-Binary Numbers|
 |JUN 28|Minimum Deletions to Make Character Frequencies Unique|
 |JUN 29|Queue Reconstruction by Height|💡|
-|JUN 30||
+|JUN 30|Minimum Moves to Equal Array Elements II|💡|
