@@ -5,3 +5,4 @@
 |JUL 3|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|Greedy|
 |JUL 4|[Candy](https://leetcode.com/problems/candy/)|Greedy
 |JUL 5|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Hashtable
+|JUL 6|[Fibonacci no.](https://leetcode.com/problems/fibonacci-number/)|Recursion
