@@ -6,3 +6,6 @@
 |JUL 4|[Candy](https://leetcode.com/problems/candy/)|Greedy
 |JUL 5|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Hashtable
 |JUL 6|[Fibonacci no.](https://leetcode.com/problems/fibonacci-number/)|Recursion
+|JUL 7|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|DP
+|JUL 8|[Paint House III](https://leetcode.com/problems/paint-house-iii/)|DP
+
