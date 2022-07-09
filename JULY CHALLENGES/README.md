@@ -8,4 +8,5 @@
 |JUL 6|[Fibonacci no.](https://leetcode.com/problems/fibonacci-number/)|Recursion
 |JUL 7|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|DP
 |JUL 8|[Paint House III](https://leetcode.com/problems/paint-house-iii/)|DP
+|JUL 9|[Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|DP
 
