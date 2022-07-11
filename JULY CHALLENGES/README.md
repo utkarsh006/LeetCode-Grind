@@ -10,4 +10,5 @@
 |JUL 8|[Paint House III](https://leetcode.com/problems/paint-house-iii/)|DP
 |JUL 9|[Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|DP
 |JUL 10|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|DP|💡
+|JUL 11|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|Trees|💡
 
