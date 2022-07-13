@@ -1,5 +1,5 @@
-|DATE|PROBLEM|IMPORTANT |
-|----|-------|----------|
+|DATE|PROBLEM|LINK|IMPORTANT |
+|----|-------|----|----------|
 |JUN 1|Running Sum of 1D Array| https://leetcode.com/problems/running-sum-of-1d-array/|💡|
 |JUN 2|Transpose Matrix|💡|
 |JUN 3|Range Sum Query 2D- Immutable|
