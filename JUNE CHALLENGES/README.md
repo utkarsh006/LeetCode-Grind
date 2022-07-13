@@ -1,7 +1,7 @@
 |DATE|PROBLEM|LINK|IMPORTANT |
 |----|-------|----|----------|
 |JUN 1|Running Sum of 1D Array| https://leetcode.com/problems/running-sum-of-1d-array/|💡|
-|JUN 2|Transpose Matrix|💡|
+|JUN 2|Transpose Matrix||💡|
 |JUN 3|Range Sum Query 2D- Immutable|
 |JUN 4|N Queens|💡|
 |JUN 5|N Queens II|💡|
@@ -27,6 +27,6 @@
 |JUN 25|Non-decreasing Array|
 |JUN 26|Maximum Points You Can Obtain from Cards|💡|
 |JUN 27|Partitioning Into Minimum Number Of Deci-Binary Numbers|
-|JUN 28|Minimum Deletions to Make Character Frequencies Unique|
-|JUN 29|Queue Reconstruction by Height|💡|
-|JUN 30|Minimum Moves to Equal Array Elements II|💡|
+|JUN 28|Minimum Deletions to Make Character Frequencies Unique|https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/|
+|JUN 29|Queue Reconstruction by Height|https://leetcode.com/problems/queue-reconstruction-by-height/|💡|
+|JUN 30|Minimum Moves to Equal Array Elements II|https://leetcode.com/problems/minimum-moves-to-equal-array-elements/|💡|
