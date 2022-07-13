@@ -10,7 +10,7 @@
 |JUN 8|Remove Palindromic Subsequences|https://leetcode.com/problems/remove-palindromic-subsequences/|💡|
 |JUN 9|2 Sum II|https://leetcode.com/problems/two-sum/|💡|
 |JUN 10|Longest substring without repeating characters|https://leetcode.com/problems/longest-repeating-character-replacement/|💡|
-|JUN 11|Min operations to reduce X to 0|💡|
+|JUN 11|Min operations to reduce X to 0|https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/|💡|
 |JUN 12|Max Erasure value|https://leetcode.com/problems/maximum-erasure-value/|
 |JUN 13|Triangle|https://leetcode.com/problems/triangle/|
 |JUN 14|Delete operation for 2 strings|https://leetcode.com/problems/delete-operation-for-two-strings/|💡|
