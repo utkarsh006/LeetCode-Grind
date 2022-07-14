@@ -16,3 +16,10 @@
 
 
 😎✌ **Check the [Contributing Guidelines](https://github.com/utkarsh006/LeetCode-Grind/blob/main/Guidelines.md)**
+
+<br> <br>
+😃 **This Project had been a Part of**
+
+| | |
+|---|---|
+|<img width = 100 src = "https://user-images.githubusercontent.com/94545831/178086715-dd29081c-f577-4bb6-a7c6-493d0f09b4a6.png"/> | **Hackclub RAIT**|
