@@ -13,5 +13,6 @@
 |JUL 11|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|Trees|💡
 |JUL 12|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|DP|
 |JUL 13|[Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Trees|
+|JUL 14|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Trees|💡
 
 
