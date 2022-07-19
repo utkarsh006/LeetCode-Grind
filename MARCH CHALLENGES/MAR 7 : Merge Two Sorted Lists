@@ -8,7 +8,7 @@ public:
         ListNode* p1 = list1;  // pointer to list 1
         ListNode* p2 = list2; // pointer to list 2
         ListNode* head; // head of final list
-        ListNode* temp;
+        ListNode* temp; // pointer to find enxt value to add ot list
         
         // checking for the smaller head of two whoch becomes head of final list
         if(p1->val < p2->val){
