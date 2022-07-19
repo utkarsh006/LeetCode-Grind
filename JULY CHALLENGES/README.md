@@ -14,5 +14,9 @@
 |JUL 12|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|DP|
 |JUL 13|[Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Trees|
 |JUL 14|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Trees|💡
-
+|JUL 15|||
+|JUL 16|||
+|JUL 17|||
+|JUL 18|||
+|JUL 19|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|Arrays|
 
