@@ -17,6 +17,7 @@
 
 😎✌ **Check the [Contributing Guidelines](https://github.com/utkarsh006/LeetCode-Grind/blob/main/Guidelines.md)**
 
+🤠 **Contributors**
 <a href="https://github.com/utkarsh006/LeetCode-Grind/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=utkarsh006/LeetCode-Grind" />
 </a>
