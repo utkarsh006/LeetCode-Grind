@@ -18,5 +18,6 @@
 |JUL 16|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)||
 |JUL 17|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)||💡
 |JUL 18|[Number of submatrices that sum to target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)||💡
-|JUL 19|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|Arrays|
+|JUL 19|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|Arrays|💡
+|JUL 20|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|Strings|💡
 
