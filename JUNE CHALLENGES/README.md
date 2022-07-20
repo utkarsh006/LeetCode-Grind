@@ -15,7 +15,7 @@
 |JUN 13|Triangle|
 |JUN 14|Delete operation for 2 strings|💡|
 |JUN 15|Longest string chain|
-|JUN 16|Longest Palindromic Substring|💡|
+|JUN 16| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| 💡 |
 |JUN 17|Binary tree cameras|💡|
 |JUN 18|Prefix and suffix search|
 |JUN 19|Search Suggestions System|
