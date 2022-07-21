@@ -20,4 +20,5 @@
 |JUL 18|[Number of submatrices that sum to target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)||💡
 |JUL 19|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|Arrays|💡
 |JUL 20|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|Strings|💡
+|JUL 21|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Linked List|
 
