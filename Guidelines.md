@@ -2,11 +2,13 @@
 We are happy to welcome all the contributions from anyone willing to improve this project. <br>
 Thank you for helping out and remember, **no contribution is too small**. <br>
 <br>
-- Add only the problems which have been a part of Daily LeetCode Challenge for 2022.
+- Add only the problems which have been a part of **Daily LeetCode Challenge for 2022.**
 - Update the README as per your question.
 - Add any problem if it is not present in the folder.
 - If any problem is Important in perspective of an interview, mark it as 💡
-- Add the approach with proper comments, along with its Time and Space Complexity.
+- **Add the approach** with proper comments, along with its Time and Space Complexity.
+- Use Braces from the **next line.**
+<br>
 
 👻 **Now, Follow these steps :-**
 ### Step 1 : Create an issue
