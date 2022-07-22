@@ -1,4 +1,19 @@
-class Solution {
+/* Problem :
+You are given the root of a binary search tree (BST), where the values of exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure.
+ */
+
+ /* Approach :
+ In a BST the result of traversing in order should be arranged in increasing order.
+ Thus to identify which nodes are in the wrong position we simply check when two consecutive nodes are not arranged in increasing order.
+ */
+
+ /* Steps :
+1. traverse the tree in order.
+2. identify which nodes are in the wrong position.
+3. swap the wrong nodes.
+ */
+
+ class Solution {
     TreeNode* first, *last, *prev;
 public:
     // the idea is the in-order BST is always increasing, if not, then there is something wrong
@@ -26,3 +41,8 @@ public:
         swap(first->val,last->val);
     }
 };
+
+ /* Time and Space Complexity :
+ Time Complexity O(N)--> For In order traversal
+ Space O(1)
+ */
