@@ -2,18 +2,26 @@ class Solution
 {
     public:
         ListNode* reverseBetween(ListNode *head, int left, int right){
-            ListNode *dummy = new ListNode(0), *pre = dummy, *cur;
-            dummy->next = head;
+            
+            ListNode *temp = new ListNode(0), 
+            ListNode *pre = temp, *cur;
+            temp -> next = head;
+            
+            //find the nodes to reverse the list from and to.
             for (int i = 0; i < left - 1; i++){
                 pre = pre->next;
             }
-            cur = pre->next;
+            
+            cur = pre -> next;
+            
+            //reverse the list between given nodes
             for (int i = 0; i < right - left; i++){
-                ListNode *temp = pre->next;
+                ListNode *newNode = pre->next;
                 pre->next = cur->next;
                 cur->next = cur->next->next;
-                pre->next->next = temp;
+                pre->next->next = newNode;
             }
-            return dummy->next;
+            
+            return temp->next;
         }
 };
