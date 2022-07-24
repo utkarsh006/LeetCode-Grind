@@ -15,9 +15,9 @@
 |JUL 13|[Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Trees|
 |JUL 14|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Trees|💡
 |JUL 15|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Graphs|
-|JUL 16|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)||
-|JUL 17|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)||💡
-|JUL 18|[Number of submatrices that sum to target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)||💡
+|JUL 16|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|DP|
+|JUL 17|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|DP|💡
+|JUL 18|[Number of submatrices that sum to target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|Hashtable|💡
 |JUL 19|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|Arrays|💡
 |JUL 20|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|Strings|💡
 |JUL 21|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Linked list|💡
