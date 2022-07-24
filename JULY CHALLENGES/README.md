@@ -20,4 +20,7 @@
 |JUL 18|[Number of submatrices that sum to target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)||💡
 |JUL 19|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|Arrays|💡
 |JUL 20|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|Strings|💡
-
+|JUL 21|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Linked list|💡
+|JUL 22|[Partition List](https://leetcode.com/problems/partition-list/)|Linked list|💡
+|JUL 23|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Binary Tree|💡
+|JUL 24|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Matrix|💡
