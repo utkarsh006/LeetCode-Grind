@@ -9,6 +9,11 @@ then add up to the sum (when current depth is the maximum reached till now).
 */
 
 //Using BFS Traversal
+/*
+In this, we go through each depth level one by one.
+Simply reset sum to zero at the beginning of each depth level and add the values of all nodes on that level.
+Finally, sum will store the sum of all values from the previous level or the sum of values from the deepest leaves.
+*/
     int deepestLeavesSum(TreeNode* root) {
         queue<TreeNode*> q;
         q.push(root);
@@ -35,6 +40,12 @@ Space Complexity : O(N)
 
 
 //DFS Traversal
+/*
+This can be accomplished in a single DFS pass.
+We keep sum, which stores the sum of the values of the deepest level nodes up to this point, and deepest, which stores the depth or level of the deepest nodes.
+Finally, we will return the total amount accumulated thus far.
+The final value stored in sum will be the sum of the values of the nodes (leaves) at the deepest level.
+*/
 		int depth = 0, sum = 0;
     int deepestLeavesSum(TreeNode* root, int curr_depth = 0) {
 
