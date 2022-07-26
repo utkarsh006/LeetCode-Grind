@@ -106,7 +106,9 @@ public:
  
  
  
- TC = O(n)
- SC = O(1)
- Recursive Stack Space = O(h),h is the height of the Binary Tree
+ - Time Complexity = O(n)
+ 
+ - Space Complexity = O(1)
+ 
+ - Recursive Stack Space = O(h),h is the height of the Binary Tree
  
