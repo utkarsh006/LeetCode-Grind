@@ -64,4 +64,5 @@ public:
     }
 };
 
-//tc and sc
+//Time Complexity: O(log n)
+//Space Complexity: O(1)
