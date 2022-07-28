@@ -19,15 +19,15 @@
 |APR 17|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|Binary Search Tree|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/APR%20CHALLENGES/APR%2017_Increasing%20Order%20Search%20Tree.cpp)|
 |APR 18|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Binary Search Tree|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/APR%20CHALLENGES/APR%2018_%20Kth%20Smallest%20Element%20in%20a%20BST.cpp)|💡
 |APR 19|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|Binary Search Tree|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/APR%20CHALLENGES/APR%2019_Recover%20Binary%20Search%20Tree.cpp)|💡
-|APR 20|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|Binary Search Tree, Stack|[LINK]()|💡
+|APR 20|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|Binary Search Tree, Stack||💡
 |APR 21|[Design HashSet](https://leetcode.com/problems/design-hashset/)|Hash Table|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/APR%20CHALLENGES/APR%2021_%20Design%20HashSet.cpp)|
-|APR 22|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|Hash Table|[LINK]()|
+|APR 22|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|Hash Table||
 |APR 23|[ Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|Hash Table|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/APR%20CHALLENGES/APR%2023_%20Encode%20and%20Decode%20TinyURL.cpp)|
 |APR 24|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|Hash Table|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/APR%20CHALLENGES/APR%2024_%20Design%20Underground%20System.cpp)|
 |APR 25|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|Design|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/APR%20CHALLENGES/APR%2025_%20Peeking%20Iterator.cpp)|
-|APR 26|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|Minimum Spanning Tree|[LINK]()|💡
-|APR 27|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|Graph|[LINK]()|💡
+|APR 26|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|Minimum Spanning Tree||💡
+|APR 27|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|Graph||💡
 |APR 28|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|Priority Queue, Graph|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/APR%20CHALLENGES/APR%2028_%20Path%20With%20Minimum%20Effort.cpp)|
 |APR 29|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|Graph|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/APR%20CHALLENGES/APR%2029_%20Is%20Graph%20Bipartite.cpp)|💡
-|APR 30|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|Graph|[LINK]()|💡
+|APR 30|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|Graph||💡
 
