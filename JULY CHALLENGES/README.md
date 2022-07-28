@@ -26,3 +26,4 @@
 |JUL 24|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Matrix|💡
 |JUL 26| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree |💡|
 |JUL 27| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Binary Tree | | 
+|JUL 28 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Strings & Hashmap |💡|
