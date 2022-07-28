@@ -1,12 +1,14 @@
----
 name: Add New Challenge
 title: '[New Challenge]:'
 labels: HSOC22
-
----
-
-**Challenge Title**
-
-
-**Challenge Explanation**
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Make sure to add a screenshot!
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Enter a brief description about the challenge
 
