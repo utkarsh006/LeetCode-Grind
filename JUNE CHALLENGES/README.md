@@ -1,4 +1,4 @@
-|DATE|PROBLEM|TOPIC|SOLUTION|IMPORTANT|
+|DATE|PROBLEM|SOLUTION|TOPIC|IMPORTANT|
 |----|-----|----------|---------|---------|
 |JUN 1| [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%201_Running%20Sum%20of%201d%20Array.cpp)|Array|💡|
 |JUN 2| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%202_Transpose%20Matrix.cpp)|Matrix|💡|
