@@ -1,6 +1,6 @@
-|DATE|PROBLEM|IMPORTANT|
-|----|-----|----------|
-|MAY 1|[Backspace string compare](https://leetcode.com/problems/backspace-string-compare/)|💡|
+|DATE|PROBLEM|SOLUTION|IMPORTANT|
+|----|-------|--------|---------|
+|MAY 1|[Backspace string compare](https://leetcode.com/problems/backspace-string-compare/)|[LINK]()|💡|
 |MAY 2|[Sort Array by parity](https://leetcode.com/problems/sort-array-by-parity/)|💡|
 |MAY 3|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|
 |MAY 4|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|💡|
