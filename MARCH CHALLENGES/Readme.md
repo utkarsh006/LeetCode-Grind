@@ -1,5 +1,5 @@
-|DATE|PROBLEM|TOPIC|IMPORTANT|
-|----|-----|----------|-----|
+|DATE|PROBLEM|TOPIC|SOLUTION|IMPORTANT|
+|----|-------|-----|--------|---------|
 |MARCH 1|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation|💡
 |MARCH 2|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Dynamic Programming|💡
 |MARCH 3|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|Dynamic Programming|💡
