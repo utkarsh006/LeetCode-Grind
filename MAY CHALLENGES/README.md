@@ -8,7 +8,7 @@
 |MAY 6|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%206_%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)|💡|
 |MAY 7|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%207_%20132%20Pattern.cpp)||💡|
 |MAY 8|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%208_%20Flatten%20Nested%20List%20Iterator.cpp)|💡|
-|MAY 9|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|💡|
+|MAY 9|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)||💡|
 |MAY 10|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%2010_%20Combination%20Sum%20III.cpp)|💡|
 |MAY 11|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%2011_%20Count%20Sorted%20Vowel%20Strings.cpp)|💡|
 |MAY 12|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%2012_%20Permutations%20II.cpp)|
