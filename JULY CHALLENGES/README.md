@@ -1,28 +1,28 @@
 |DATE|PROBLEM|TOPIC|SOLUTION|IMPORTANT|
 |----|-------|-----|--------|---------|
 |JUL 1|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|Greedy|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%201_Maximum%20Units%20on%20a%20Truck.cpp)|
-|JUL 2|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|Greedy|[LINK]()|
-|JUL 3|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|Greedy|[LINK]()|
-|JUL 4|[Candy](https://leetcode.com/problems/candy/)|Greedy|[LINK]()|
-|JUL 5|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Hashtable|[LINK]()|💡
-|JUL 6|[Fibonacci no.](https://leetcode.com/problems/fibonacci-number/)|Recursion|[LINK]()|
-|JUL 7|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|DP|[LINK]()|💡
-|JUL 8|[Paint House III](https://leetcode.com/problems/paint-house-iii/)|DP|[LINK]()|
-|JUL 9|[Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|DP|[LINK]()|
-|JUL 10|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|DP|[LINK]()|💡
-|JUL 11|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|Trees|[LINK]()|💡
-|JUL 12|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|DP|[LINK]()|
-|JUL 13|[Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Trees|[LINK]()|
-|JUL 14|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Trees|[LINK]()|💡
-|JUL 15|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Graphs|[LINK]()|
-|JUL 16|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|DP|
-|JUL 17|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|DP|💡
-|JUL 18|[Number of submatrices that sum to target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|Hashtable|💡
-|JUL 19|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|Arrays|💡
-|JUL 20|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|Strings|💡
-|JUL 21|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Linked list|💡
-|JUL 22|[Partition List](https://leetcode.com/problems/partition-list/)|Linked list|💡
-|JUL 23|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Binary Tree|💡
-|JUL 24|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Matrix|💡
-|JUL 26| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree |💡|
-|JUL 27| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Binary Tree | | 
+|JUL 2|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|Greedy|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%202_Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.cpp)|
+|JUL 3|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|Greedy|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%203_Wiggle%20Subsequence.cpp)|
+|JUL 4|[Candy](https://leetcode.com/problems/candy/)|Greedy|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%204_Candy.cpp)|
+|JUL 5|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Hashtable|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%205_Longest%20Consecutive%20Sequence.cpp)|💡
+|JUL 6|[Fibonacci no.](https://leetcode.com/problems/fibonacci-number/)|Recursion|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%206_Fibonacci%20number.cpp)|
+|JUL 7|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|DP|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%207_Interleaving%20String.cpp)|💡
+|JUL 8|[Paint House III](https://leetcode.com/problems/paint-house-iii/)|DP|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%208_Paint%20House%20III.cpp)|
+|JUL 9|[Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|DP|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%209_Jump%20Game%20VI.cpp)|
+|JUL 10|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|DP|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2010_Min%20Cost%20Climbing%20Stairs.cpp)|💡
+|JUL 11|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|Trees|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2011_Binary%20Tree%20Right%20Side%20View.cpp)|💡
+|JUL 12|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|DP|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2012_Matchsticks%20to%20Square.cpp)|
+|JUL 13|[Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Trees|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2013_Level%20Order%20Traversal.cpp)|
+|JUL 14|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Trees|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2014%20_Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp)|💡
+|JUL 15|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Graphs|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2015%20Max_area_of_island.cpp)|
+|JUL 16|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|DP||
+|JUL 17|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|DP|[LINK[(https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2017_%20K%20Inverse%20Pairs%20Array.cpp)|💡
+|JUL 18|[Number of submatrices that sum to target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|Hashtable|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2018_%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.cpp)|💡
+|JUL 19|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|Arrays|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2019_%20Pascal%20Triangle.cpp)|💡
+|JUL 20|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|Strings|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2020_%20Number%20of%20Matching%20Subsequences.cpp)|💡
+|JUL 21|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Linked list||💡
+|JUL 22|[Partition List](https://leetcode.com/problems/partition-list/)|Linked list|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2022_Partition%20List.cpp)|💡
+|JUL 23|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Binary Tree||💡
+|JUL 24|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Matrix|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/Jul%2024_Search%20a%202D%20Matrix%20II.cpp)|💡
+|JUL 26| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/JUL%2026_LCA%20of%20Binary%20Tree.md)|💡|
+|JUL 27| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Binary Tree |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JULY%20CHALLENGES/JUL%2027_Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)|
