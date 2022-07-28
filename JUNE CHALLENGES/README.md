@@ -20,13 +20,13 @@
 |JUN 18| [Prefix and suffix search](https://leetcode.com/problems/prefix-and-suffix-search/)|Trie|
 |JUN 19| [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|Trie|
 |JUN 20| [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|Trie, Hashtable|
-|JUN 21| [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|Greeedy, Heap|💡|
+|JUN 21| [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|Greedy, Heap|💡|
 |JUN 22| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Array|💡|
-|JUN 23| [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)|Greeedy, Heap|💡|
+|JUN 23| [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)|Greedy, Heap|💡|
 |JUN 24| [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|Array|
 |JUN 25| [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|Array|
 |JUN 26| [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|Sliding Window|💡|
-|JUN 27| [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|Greeedy|
+|JUN 27| [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|Greedy|
 |JUN 28| [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|Greedy|
-|JUN 29| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|Greeedy|💡|
+|JUN 29| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|Greedy|💡|
 |JUN 30| [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|Array|💡|
