@@ -1,6 +1,6 @@
 |DATE|PROBLEM|TOPIC|SOLUTION|IMPORTANT|
 |----|-------|-----|--------|---------|
-|MARCH 1|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%201_Counting%20bits.cpp|💡
+|MARCH 1|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation|[Solution]https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%201_Counting%20bits.cpp|💡
 |MARCH 2|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Dynamic Programming||💡
 |MARCH 3|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|Dynamic Programming|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%203_Arithmetic%20slices.cpp|💡
 |MARCH 4|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|Dynamic Programming|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%204_Champagne%20tower.cpp|
