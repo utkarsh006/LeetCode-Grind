@@ -2,14 +2,14 @@
 |----|-------|-----|--------|---------|
 |MARCH 1|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%201_Counting%20bits.cpp|💡
 |MARCH 2|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Dynamic Programming|💡
-|MARCH 3|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|Dynamic Programming|💡
-|MARCH 4|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|Dynamic Programming|
-|MARCH 5|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|Dynamic Programming, Two Pointers|💡
-|MARCH 6|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|Dynamic Programming|
-|MARCH 7|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Linked List|💡
-|MARCH 8|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Linked List, Two pointers|💡
-|MARCH 9|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Linked List, Two pointers|💡
-|MARCH 10|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Linked List|
+|MARCH 3|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|Dynamic Programming|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%203_Arithmetic%20slices.cpp|💡
+|MARCH 4|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|Dynamic Programming|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%204_Champagne%20tower.cpp|
+|MARCH 5|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|Dynamic Programming, Two Pointers|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%205_Delete%20%26%20Earn.cpp|💡
+|MARCH 6|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|Dynamic Programming|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%206_Valid%20pickup.cpp|
+|MARCH 7|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Linked List|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%207_%20Merge%20Two%20Sorted%20Lists.cpp|💡
+|MARCH 8|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Linked List, Two pointers|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%208_Linked%20list%20cycle.cpp|💡
+|MARCH 9|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Linked List, Two pointers|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%209_Remove%20Duplicates%20from%20Sorted%20List%20II.cpp|💡
+|MARCH 10|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Linked List|https://github.com/utkarsh006/LeetCode-Grind/blob/main/MARCH%20CHALLENGES/MAR%2010_Add%20two%20nos.%20as%20lists.cpp|
 |MARCH 11|[Rotate List](https://leetcode.com/problems/rotate-list/)|Linked List, Two pointers|
 |MARCH 12|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Linked List|
 |MARCH 13|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Stack|💡
