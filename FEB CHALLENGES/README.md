@@ -8,7 +8,7 @@
 |FEB 6|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%206_Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp)|
 |FEB 7|[Find The Difference](https://leetcode.com/problems/find-the-difference/)|String|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%207_Difference%20in%20strings.cpp)|
 |FEB 8|[Add Digits](https://leetcode.com/problems/add-digits/)|Number Theory||
-|FEB 9|[K Different Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|Array|[Soltuion](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%209%20_K%20diff%20pairs%20in%20array.cpp)|💡
+|FEB 9|[K Different Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%209%20_K%20diff%20pairs%20in%20array.cpp)|💡
 |FEB 10|[SubArray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2010_Subarray%20sum%20equals%20k.cpp)|💡
 |FEB 11|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|String|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2011_Permutations%20in%20string.cpp)|💡
 |FEB 12|[Word Ladder](https://leetcode.com/problems/word-ladder/)|String||
