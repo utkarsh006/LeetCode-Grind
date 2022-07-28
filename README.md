@@ -4,7 +4,7 @@
   
 | |   |
 |------|------|
-|JANUARY CHALLENGES|LINK|
+|JANUARY CHALLENGES|LINK|(https://github.com/utkarsh006/LeetCode-Grind/tree/main/JAN%20CHALLENGES)
 |FEBRUARY CHALLENGES|[LINK](https://github.com/utkarsh006/LEETCODE-MONTHLY-CHALLENGES/tree/main/FEB%20CHALLENGES)|
 |MARCH CHALLENGES|[LINK](https://github.com/utkarsh006/LEETCODE-MONTHLY-CHALLENGES/tree/main/MARCH%20CHALLENGES)|
 |APRIL CHALLENGES|[LINK](https://github.com/utkarsh006/LEETCODE-MONTHLY-CHALLENGES/tree/main/APR%20CHALLENGES)|
