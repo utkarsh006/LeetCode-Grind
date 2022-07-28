@@ -1,7 +1,7 @@
-|DATE|PROBLEM|TOPIC|IMPORTANT|
-|----|-----|----------|-----|
-|APR 1|[Reverse String](https://leetcode.com/problems/reverse-string/)|String|
-|APR 2|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|String|💡
+|DATE|PROBLEM|TOPIC|SOLUTION|IMPORTANT|
+|----|-----|-------|--------|---------|
+|APR 1|[Reverse String](https://leetcode.com/problems/reverse-string/)|String|[LINK]()|
+|APR 2|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|String|[LINK]()|💡
 |APR 3|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Two Pointers|💡
 |APR 4|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|Linked List|💡
 |APR 5|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Two Pointers|💡
