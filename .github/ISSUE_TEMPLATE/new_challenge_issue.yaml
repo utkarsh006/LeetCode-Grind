@@ -1,0 +1,25 @@
+name: New Challenge Issue
+description: LeetCode-Grind
+title: "[New Issue]: "
+labels: 'HSOC22'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Make sure to add a screenshot!
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Enter a brief description about the challenge
+      value: "Description of the challenge here"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct]()
+      options:
+        - label: I follow [Contributing Guidelines](https://github.com/utkarsh006/LeetCode-Grind/blob/main/Guidelines.md) of this project.
+          required: true
