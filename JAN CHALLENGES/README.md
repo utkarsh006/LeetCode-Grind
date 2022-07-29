@@ -1,10 +1,10 @@
-|DATE|PROBLEM|TOPIC|IMPORTANT|
-|----|-----|----------|-----|
+|DATE|PROBLEM|SOLUTION|TOPIC|IMPORTANT|
+|----|-------|--------|-----|---------|
 |JAN 1|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|Dynamic Programming|💡
 |JAN 2|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|Hash Table|
 |JAN 3|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|Hash Table, Graph|
 |JAN 4|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|Bit Manipulation
-|JAN 5|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|Backtracking|💡
+|JAN 5|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%205_Palindrome%20Partitioning.md)|Backtracking|💡
 |JAN 6|[Car Pooling](https://leetcode.com/problems/car-pooling/)|Sorting, Heap
 |JAN 7|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|LinkedList|
 |JAN 8|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)|DP,Matrix|💡
