@@ -1,4 +1,4 @@
-|DATE|PROBLEM|TOPIC|SOLUTION|IMPORTANT|
+|DATE|PROBLEM|SOLUTION|TOPIC|IMPORTANT|
 |----|-----|----------|---------|---------|
 |JUN 1| [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%201_Running%20Sum%20of%201d%20Array.cpp)|Array|💡|
 |JUN 2| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%202_Transpose%20Matrix.cpp)|Matrix|💡|
@@ -18,7 +18,7 @@
 |JUN 16| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%2016_Longest%20Palindromic%20Substring.cpp)|DP| 💡 |
 |JUN 17| [Binary tree cameras](https://leetcode.com/problems/binary-tree-cameras/)||Tree|💡|
 |JUN 18| [Prefix and suffix search](https://leetcode.com/problems/prefix-and-suffix-search/)||Trie|
-|JUN 19| [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)||Trie|
+|JUN 19| [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%2019_Search%20Suggestions%20System.md)|Binary Search|💡|
 |JUN 20| [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)||Trie, Hashtable|
 |JUN 21| [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)||Greedy, Heap|💡|
 |JUN 22| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%2022_Kth%20Largest%20Element%20in%20an%20Array.cpp)|Array|💡|
