@@ -61,13 +61,6 @@ public:
             
             bool flag = true;
             
-            /*
-            //we don't need to check this condition
-            //because in the contraints its mentioned that words[i].length == pattern.length
-            if(mp.size() != mw.size())
-                flag = false;
-            */
-            
             for(int i=0; i<mp.size(); i++)
             {
                 if(mp[pattern[i]] != mw[currWord[i]])
