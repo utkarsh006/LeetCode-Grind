@@ -9,7 +9,9 @@ There is a cycle in a linked list if there is some node in the list that can be 
 ## Example
 
 Input: head = [3,2,0,-4], pos = 1
+
 Output: tail connects to node index 1
+
 Explanation: There is a cycle in the linked list, where tail connects to the second node.
 
 
@@ -58,7 +60,7 @@ public:
 
 
 
-## Approach -2 (Slow & Fast pointer) , Space Optimised Approach
+## Approach -2 (Slow & Fast pointer) , Space Optimized Approach
 
 1. Will use two pointers slow and fast where slow will move by one step and fast will move by 2 steps.
 
