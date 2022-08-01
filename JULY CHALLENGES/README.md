@@ -27,3 +27,5 @@
 |JUL 26| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree |💡|
 |JUL 27| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Binary Tree | | 
 |JUL 28 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Strings & Hashmap |💡|
+|JUL 29 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | Hashmap | |
+|JUL 30 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | Hashmap | |
