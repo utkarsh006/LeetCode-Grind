@@ -24,4 +24,4 @@ Closes #
 
 <!-- Add notes to reviewers if applicable -->
 
-## 📷 Screenshots
+## 📷 Output Screenshots
