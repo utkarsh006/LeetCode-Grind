@@ -4,7 +4,7 @@ You can swap the characters at any pair of indices in the given pairs any number
 
 Return the lexicographically smallest string that s can be changed to after using the swaps. */
 
-// Approach 1
+// Approach 1 : Recursive
 
 class Solution {
     
@@ -52,7 +52,10 @@ public:
 
 };
 
-// Approach 2
+// Time Complexity: O(NlogN)
+// Space Complexity: O(N)
+
+// Approach 2 : DFS Greedy Approach
 
 class Solution {
 public:
