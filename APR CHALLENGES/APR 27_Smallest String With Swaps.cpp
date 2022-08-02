@@ -62,6 +62,15 @@ public:
 
 // Approach 2 : DFS Greedy Approach
 
+/* You are given a string s, and an array of pairs of indices in the string pairs where pairs[i] = [a, b] indicates 2 indices(0-indexed) of the string.
+
+You can swap the characters at any pair of indices in the given pairs any number of times.
+
+Return the lexicographically smallest string that s can be changed to after using the swaps. */
+
+/*Suppose we have given a string s, and an array of pairs of indices in the string pairs where pairs[i] = [a, b] indicates 2 indices(0-indexed) of the string.
+We can swap the characters at any pair of indices in the given pairs any number of times as we want. */
+
 class Solution
 	{
 	public:
@@ -102,3 +111,6 @@ private:
             if(dfs[w] == -1) dfs(g, w, dfsid, dfs);
     }
 };
+
+// Time Complexity: O(|s| + |pairs| + |s|log|s|)
+// Space Complexity: O(|s| + |pairs|)
