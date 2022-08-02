@@ -2,7 +2,7 @@
 |----|-------|--------|-----|---------|
 |JAN 1|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)||Dynamic Programming|💡
 |JAN 2|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)||Hash Table|
-|JAN 3|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Link](https://github.com/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%203_Find%20the%20Town%20Judge.md)|Hash Table, Graph|
+|JAN 3|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%203_Find%20the%20Town%20Judge.md)|Hash Table, Graph|
 |JAN 4|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)||Bit Manipulation|
 |JAN 5|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%205_Palindrome%20Partitioning.md)|Backtracking|💡
 |JAN 6|[Car Pooling](https://leetcode.com/problems/car-pooling/)||Sorting, Heap|
@@ -18,7 +18,7 @@
 |JAN 16|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)||Array|
 |JAN 17|[Word Pattern](https://leetcode.com/problems/word-pattern/)||Hash Table|💡
 |JAN 18|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)||Greedy
-|JAN 19|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Link](https://github.com/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2019_Linked%20List%20Cycle%20II.md)|Linked List|💡
+|JAN 19|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2019_Linked%20List%20Cycle%20II.md)|Linked List|💡
 |JAN 20|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)||Binary Search|
 |JAN 21|[Gas Station](https://leetcode.com/problems/gas-station/)||Greedy|💡
 |JAN 22|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/)||DP|💡
