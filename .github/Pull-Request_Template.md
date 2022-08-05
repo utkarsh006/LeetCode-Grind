@@ -19,6 +19,7 @@ Closes #
 
 - [ ] My code follows the code style of this project.
 - [ ] The title of my pull request is a short description of the requested changes.
+- [ ] I have star this repo.
 
 ## 📄 Note to reviewers
 
