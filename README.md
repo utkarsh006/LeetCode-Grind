@@ -43,6 +43,8 @@
   <a href="https://github.com/utkarsh006/LeetCode-Grind"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30"></a>
 </div>  
 
+<br>
+
 <div align="center">
     <img src="https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" height="200px" width="200px" alt="hackclubrait summer of code">
 </div>
