@@ -11,7 +11,7 @@
 |JAN 9|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)||String
 |JAN 10|[Add Binary](https://leetcode.com/problems/add-binary/)||Bit Manipulation|💡
 |JAN 11|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)||Trees|💡
-|JAN 12|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)||Binary Search Tree|💡
+|JAN 12|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/Jan%2012_Insert%20into%20BST.cpp)|Binary Search Tree|💡
 |JAN 13|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)||Greedy|
 |JAN 14|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)||String
 |JAN 15|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)||Hash Table, BFS|
@@ -20,7 +20,7 @@
 |JAN 18|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)||Greedy
 |JAN 19|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2019_Linked%20List%20Cycle%20II.md)|Linked List|💡
 |JAN 20|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)||Binary Search|
-|JAN 21|[Gas Station](https://leetcode.com/problems/gas-station/)||Greedy|💡
+|JAN 21|[Gas Station](https://leetcode.com/problems/gas-station/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2021_Gas%20Station.cpp)|Greedy|💡
 |JAN 22|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/)||DP|💡
 |JAN 23|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)||Enumeration|
 |JAN 24|[Detect Capital](https://leetcode.com/problems/detect-capital/)||String
