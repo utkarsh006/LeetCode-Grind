@@ -1,5 +1,20 @@
 <p align = "center"> <img width = 500 src = "https://user-images.githubusercontent.com/94545831/177241813-6625bc1e-def6-4cf4-81f8-0d8414be483f.png" /> </p>
 
+<div align="center">
+
+![GitHub contributors](https://img.shields.io/github/contributors/utkarsh006/LeetCode-Grind?style=for-the-badge&color=blue)
+![GitHub Closed issues](https://img.shields.io/github/issues-closed-raw/utkarsh006/LeetCode-Grind?style=for-the-badge&color=brightgreen)
+![GitHub PR Open](https://img.shields.io/github/issues-pr/utkarsh006/LeetCode-Grind?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/utkarsh006/LeetCode-Grind?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/utkarsh006/LeetCode-Grind?style=for-the-badge&color=brightgreen)
+![GitHub top language](https://img.shields.io/github/languages/top/utkarsh006/LeetCode-Grind?style=for-the-badge&color=aqua)
+![GitHub last commit](https://img.shields.io/github/last-commit/utkarsh006/LeetCode-Grind?style=for-the-badge&color=blue)
+![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
+![Github Repo Size](https://img.shields.io/github/repo-size/utkarsh006/LeetCode-Grind?style=for-the-badge&color=aqua)
+
+
+</div>
+
 <div align = "center">
   
 | |   |
@@ -19,8 +34,14 @@
 
 
 ## **Open Source programs this repo has been part of**
-<a href="https://github.com/utkarsh006/LeetCode-Grind"><img src="https://forthebadge.com/images/badges/built-by-developers.svg" width="207" ></a> 
-<a href="https://github.com/utkarsh006/LeetCode-Grind"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="123" ></a> 
+
+<div align="center">
+  <a href="https://github.com/utkarsh006/LeetCode-Grind"><img src="https://forthebadge.com/images/badges/built-by-developers.svg" width="207" ></a> 
+  <a href="https://github.com/utkarsh006/LeetCode-Grind"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" ></a> 
+  <a href="https://github.com/utkarsh006/LeetCode-Grind"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30"></a>
+  <a href="https://github.com/utkarsh006/LeetCode-Grind"><img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" width="130" height="30"></a>
+  <a href="https://github.com/utkarsh006/LeetCode-Grind"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30"></a>
+</div>  
 
 <div align="center">
     <img src="https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" height="200px" width="200px" alt="hackclubrait summer of code">
