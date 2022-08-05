@@ -34,10 +34,15 @@ Space Complexity : O(T).
 
 We repeatedly do the same computations for a target.
 To avoid wasting time recalculating the amount of combinations obtained for a particular objective, this might be prevented by storing the information.
-We may do this by keeping track of a dp array, where dp[i] represents the total number of potential possibilities when target = i.
-All dp elements are initially initialized to -1, indicating that the number of combinations for each target has not yet been determined.
-Once the number of combinations for subtarget = i (where 0<i<=target) has been computed,
-it will be saved in dp[i] and will be returned immediately the next time a recursive call requests the same value rather than having to compute it again.
+Our DP array (dp) will have cells (dp[i]) where i will stand for the remaining space left before T and dp[i] for the number of paths leading to the answer (dp[T]) from i.
+We iterate over the various nums in our number array (N) as we build out dp, taking into account the cell that can be accessed with each num(dp[i-num]).
+As a result, the value of dp[i] will equal the total of the outcomes of all of those potential moves.
+To indicate the value of the finished combination, we must seed dp[0] with a value of 1. 
+After the iteration is finished, we may then return dp[T] as the solution.
+
+As an example,
+If we're trying to discover a method to get from 0 to our goal number (T) and 0 < x < y < T, 
+we can see that learning how many ways there are to go from y to T will help us determine how many ways there are to go from x to T, all the way down to 0 to T.
 */
 
 class Solution
