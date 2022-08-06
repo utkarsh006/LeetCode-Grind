@@ -41,8 +41,25 @@ To indicate the value of the finished combination, we must seed dp[0] with a val
 After the iteration is finished, we may then return dp[T] as the solution.
 
 As an example,
-If we're trying to discover a method to get from 0 to our goal number (T) and 0 < x < y < T, 
-we can see that learning how many ways there are to go from y to T will help us determine how many ways there are to go from x to T, all the way down to 0 to T.
+Input: nums = [1,2,3], target = 4
+Output: 7
+Explanation:
+dp[0] = 1 way
+T[1] = dp[1]+dp[1-1] => 1 way
+
+T[2]= dp[2] = > dp[2]+dp[2-1] = dp[2] +dp[1] ,
+                dp[2] +dp[2-2] = dp[2] +dp[0] 
+                                    ....... total  2 ways
+                
+T[3] = dp[3] => dp[3] +dp[3-1] = dp[3] +dp[2] ---- 2 ways
+                dp[3] +dp[3-2] = dp[3] +dp[1]
+                dp[3] +dp[3-3] = dp[3] +dp[0] 
+                                    ........ total 4 ways
+                
+T[4] = dp[4] => dp[4] +dp[4-1] = dp[3] +dp[3] ---- 4 ways
+                dp[4] +dp[4-2] = dp[3] +dp[2] ---- 2 ways
+                dp[4] +dp[4-3] = dp[3] +dp[1] ........ 1 way
+                                     ....... total 7 ways (output)
 */
 
 class Solution
