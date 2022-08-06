@@ -5,3 +5,4 @@
 |AUG 3| [My Calendar I](https://leetcode.com/problems/my-calendar-i/)| Ordered Set | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%203_My%20Calendar%20I.cpp)| 💡 |
 |AUG 4| [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)| Math, Geometry | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%204_Mirror%20Reflection.cpp)| 💡 |
 |AUG 5| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| DP || 💡 |
+|AUG 6| [Poor Pigs](https://leetcode.com/problems/poor-pigs/)| DP || 💡 |
