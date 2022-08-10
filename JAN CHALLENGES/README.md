@@ -29,5 +29,5 @@
 |JAN 27| [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)||Hash Table, Bit Manipulation|💡 | 
 |JAN 28 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)||DFS, Trie |💡|
 |JAN 29 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|| Stack |💡💡|
-|JAN 30 | [Rotate Array](https://leetcode.com/problems/rotate-array/)||Two Pointers|💡💡|
+|JAN 30 | [Rotate Array](https://leetcode.com/problems/rotate-array/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2030_Rotate%20array.cpp)|Two Pointers|💡💡|
 |JAN 31 | [ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)||Matrix|
