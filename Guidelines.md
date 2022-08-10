@@ -5,6 +5,7 @@ Thank you for helping out and remember, **no contribution is too small**. <br>
 - Add only the problems which have been a part of **Daily LeetCode Challenge for 2022.**
 - Update the README as per your question.
 - Add any problem if it is not present in the folder.
+- Code must be ```written in C++``` and should be saved with the ```extension .cpp```.
 - If any problem is Important in perspective of an interview, mark it as 💡
 - **Add the approach** with proper comments, along with its Time and Space Complexity.
 - Use Braces from the **next line.**
