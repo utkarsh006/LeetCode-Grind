@@ -8,7 +8,7 @@
 |AUG 6| [Poor Pigs](https://leetcode.com/problems/poor-pigs/)| Combinatorics |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%206_Poor%20Pigs.cpp)| |
 |AUG 5| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| DP | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%205_Combination%20Sum%20IV.cpp)| 💡 |
 |AUG 6| [Poor Pigs](https://leetcode.com/problems/poor-pigs/)| Combinatorics |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%206_Poor%20Pigs.cpp)| |
-|AUG 7| [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)| DP || |
+|AUG 7| [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)| DP || 💡 |
 |AUG 8| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| DP || 💡 |
 |AUG 9| [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)| Binary Tree || 💡 |
 |AUG 10| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| Binary Tree || |
