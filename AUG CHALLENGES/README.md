@@ -11,6 +11,6 @@
 |AUG 9| [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)| Binary Tree || 💡 |
 |AUG 10| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| Binary Tree || |
 |AUG 11| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| Binary Tree |[LINK](https://github.com/tanya-gupta25/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2011_Validate%20Binary%20Search%20Tree.cpp)| 💡 |
-|AUG 12| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| Binary Tree |[LINK]()| 💡 |
+|AUG 12| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| Binary Tree |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2012_Lowest%20Common%20Ancestor%20of%20BST.cpp)| 💡 |
 |AUG 13| [ Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| String || 💡 |
 
