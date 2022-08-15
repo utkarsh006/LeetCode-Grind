@@ -9,6 +9,7 @@ Thank you for helping out and remember, **no contribution is too small**. <br>
 - If any problem is Important in perspective of an interview, mark it as 💡
 - **Add the approach** with proper comments, along with its Time and Space Complexity.
 - Use Braces from the **next line.**
+- Add the **explanation of the problem** if it is not there.
 <br>
 
 👻 **Now, Follow these steps :-**
