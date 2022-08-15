@@ -23,7 +23,7 @@
 |JAN 21|[Gas Station](https://leetcode.com/problems/gas-station/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2021_Gas%20Station.cpp)|Greedy|💡
 |JAN 22|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/)||DP|💡
 |JAN 23|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)||Enumeration|
-|JAN 24|[Detect Capital](https://leetcode.com/problems/detect-capital/)||String
+|JAN 24|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2024_Detect%20Capital.cpp)|String
 |JAN 25|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)||Array
 |JAN 26| [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)||Binary Search Tree ,Sorting |💡|
 |JAN 27| [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)||Hash Table, Bit Manipulation|💡 | 
