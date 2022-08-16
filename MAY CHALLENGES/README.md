@@ -1,5 +1,5 @@
 |DATE|PROBLEM|SOLUTION|TOPIC|IMPORTANT|
-|----|-------|--------|-----|---------|
+|-----|-------|--------|-----|---------|
 |MAY 1|[Backspace string compare](https://leetcode.com/problems/backspace-string-compare/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%201_%20Backspace%20String%20Compare.cpp)|String,Two Pointers|💡|
 |MAY 2|[Sort Array by parity](https://leetcode.com/problems/sort-array-by-parity/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%202_%20Sort%20Array%20By%20Parity.cpp)|Sorting,Two Pointer|💡|
 |MAY 3|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%203_%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)|Sorting,Two Pointer|
@@ -7,7 +7,7 @@
 |MAY 5|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%205_%20Implement%20Stack%20using%20Queues.cpp)|Stack,Queue|💡|
 |MAY 6|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%206_%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)|Stack|💡|
 |MAY 7|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%207_%20132%20Pattern.cpp)|Stack,Binary Search|💡|
-|MAY 8|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%208_%20Flatten%20Nested%20List%20Iterator.cpp)||Queue,DFS|💡|
+|MAY 8|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%208_%20Flatten%20Nested%20List%20Iterator.cpp)|Queue,DFS|💡|
 |MAY 9|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)||Backtracking,Hash Table|💡|
 |MAY 10|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%2010_%20Combination%20Sum%20III.cpp)|Backtracking|💡|
 |MAY 11|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%2011_%20Count%20Sorted%20Vowel%20Strings.cpp)|Dynamic Programming|💡|
@@ -20,7 +20,7 @@
 |MAY 18|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)||DFS,Graph|💡|
 |MAY 19|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)||DP,Matrix|
 |MAY 20|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)||DP,Matrix|💡|
-|MAY 21|[Coin Change](https://leetcode.com/problems/coin-change/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%2021_Coin%20Change.cpp)||DP|💡|
+|MAY 21|[Coin Change](https://leetcode.com/problems/coin-change/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/MAY%20CHALLENGES/MAY%2021_Coin%20Change.cpp)|DP|💡|
 |MAY 22|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)||DP|💡|
 |MAY 23|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)||DP,String|💡|
 |MAY 24|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)||DP,Stack|
