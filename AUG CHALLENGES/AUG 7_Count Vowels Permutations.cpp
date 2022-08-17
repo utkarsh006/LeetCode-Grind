@@ -36,7 +36,7 @@ class Solution
 public:
     int countVowelPermutation(int n) 
     {
-        long long int a=1,e=1,i=1,o=1,u=1; // Initialize vowel variables to 1
+        long long int a=1,e=1,i=1,o=1,u=1; // Initialize variables to 1
         for(int j=1;j<n;j++)
         {
             long long int t1=a,t2=e,t3=i,t4=o,t5=u; // Storing values temporarily to avoid Redundancy
@@ -46,7 +46,7 @@ public:
             o=t3%1000000007;
             u=(t3+t4)%1000000007;
         }
-        return (a+e+i+o+u)%1000000007;  // Return Number of possible strings 
+        return (a+e+i+o+u)%1000000007;  // Return Total number of possible strings 
     }
 };
 
