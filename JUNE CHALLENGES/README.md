@@ -16,7 +16,7 @@
 |JUN 14| [Delete operation for 2 strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%2014_Delete%20Operation%20for%20Two%20Strings.cpp)|Strings, DP|💡|
 |JUN 15| [Longest string chain](https://leetcode.com/problems/longest-string-chain/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%2015_Longest%20String%20Chain.cpp)|DP|
 |JUN 16| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%2016_Longest%20Palindromic%20Substring.cpp)|DP| 💡 |
-|JUN 17| [Binary tree cameras](https://leetcode.com/problems/binary-tree-cameras/)||Tree|💡|
+|JUN 17| [Binary tree cameras](https://leetcode.com/problems/binary-tree-cameras/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%2017_Binary%20tree%20cameras.cpp)|Tree|💡|
 |JUN 18| [Prefix and suffix search](https://leetcode.com/problems/prefix-and-suffix-search/)||Trie|
 |JUN 19| [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JUNE%20CHALLENGES/JUN%2019_Search%20Suggestions%20System.md)|Binary Search|💡|
 |JUN 20| [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)||Trie, Hashtable|
