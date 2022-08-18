@@ -17,49 +17,38 @@ According to intuition, we will start installing cameras on the parent of the le
 and as we approach the tree's leaf nodes, with a goal of having each camera cover a maximum of two leaf nodes.
 */
 
-class Solution
-{
-public:
-    int minCameraCover(TreeNode* root)
-    {
-        int cam = 0;
-        int minCam = cover(root, cam);
+class Solution {
+ public:
+  int minCameraCover(TreeNode* root) {
+    vector<int> ans = dfs(root);
+    return min(ans[1], ans[2]);
+  }
 
-        if(minCam==0) //need to install a camera here
-            cam++;
+ private:
+  // 0 := all nodes below root are covered except root
+  // 1 := all nodes below and including root are covered w/o camera here
+  // 2 := all nodes below and including root are covered w/ camera here
+  vector<int> dfs(TreeNode* root) {
+    if (!root)
+      return {0, 0, 1000};
 
-        return cam;
-    }
+    vector<int> l = dfs(root->left);
+    vector<int> r = dfs(root->right);
 
-    int cover(TreeNode* root, int &cam)
-    {
-        if(root==NULL) return 1;
+    const int s0 = l[1] + r[1];
+    const int s1 = min(l[2] + min(r[1], r[2]),
+                       r[2] + min(l[1], l[2]));
+    const int s2 = 1 + min({l[0], l[1], l[2]}) +
+                       min({r[0], r[1], r[2]});
 
-        //Going to the leaf nodes
-        int left = cover(root->left, cam);
-        int right = cover(root->right, cam);
-
-        //While returning to the top we check which node needs camera
-        if(left==0 || right==0)
-        {
-            //installing camera here
-            cam++;
-            return 2;
-        }
-
-        else if(left==2 || right==2)
-            // does not need camera
-            return 1;
-
-        //for (left==1 || right==1) condition
-        // children does not need a camera but parents have
-        return 0;
-    }
-
+    return {s0, s1, s2};
+  }
 };
+
 
 
 /* Complexities:
 Time Complexity: O(N), DFS traversal
 Space Complexity: O(N), Auxiliary recursion stack space
 */
+
