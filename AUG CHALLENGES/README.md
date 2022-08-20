@@ -17,5 +17,7 @@
 |AUG 15| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| Hash Table | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2015_Roman%20to%20Integer.cpp) | |
 |AUG 16| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| String || 💡 |
 |AUG 17| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| String || 💡 |
-|AUG 18| [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)| Heap, Hash Map || 💡 |
+|AUG 18| [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)| Heap, Hash Map | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2018_Reduce%20Array%20Size%20to%20The%20Half.cpp)| 💡 |
+|AUG 19| [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)| Heap, Hash Map || 💡 |
+|AUG 20| [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)| DP, Greedy || 💡 |
 
