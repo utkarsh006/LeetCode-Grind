@@ -15,9 +15,9 @@
 |AUG 13| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| String || 💡 |
 |AUG 14| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)| Hash Table, BFS || |
 |AUG 15| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| Hash Table | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2015_Roman%20to%20Integer.cpp) | |
-|AUG 16| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| String || 💡 |
+|AUG 16| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| String | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2016_First%20Unique%20Character%20in%20a%20String.md)| 💡 |
 |AUG 17| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| String || 💡 |
 |AUG 18| [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)| Heap, Hash Map | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2018_Reduce%20Array%20Size%20to%20The%20Half.cpp)| 💡 |
-|AUG 19| [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)| Heap, Hash Map || 💡 |
+|AUG 19| [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)| Heap, Hash Map | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2019_Split%20Array%20into%20Consecutive%20Subsequences.cpp)| 💡 |
 |AUG 20| [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)| DP, Greedy || 💡 |
 
