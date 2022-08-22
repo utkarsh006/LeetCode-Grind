@@ -19,5 +19,7 @@
 |AUG 17| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| String || 💡 |
 |AUG 18| [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)| Heap, Hash Map | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2018_Reduce%20Array%20Size%20to%20The%20Half.cpp)| 💡 |
 |AUG 19| [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)| Heap, Hash Map | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2019_Split%20Array%20into%20Consecutive%20Subsequences.cpp)| 💡 |
-|AUG 20| [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)| DP, Greedy || 💡 |
+|AUG 20| [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)| DP, Greedy | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2020_Minimum%20Number%20of%20Refueling%20Stops.cpp) | 💡 |
+|AUG 21| [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)| Greedy || 💡 |
+|AUG 22| [Power of Four](https://leetcode.com/problems/power-of-four/)| Bit Manipulation || 💡 |
 
