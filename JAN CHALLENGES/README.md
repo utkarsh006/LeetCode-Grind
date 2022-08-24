@@ -5,7 +5,7 @@
 |JAN 3|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%203_Find%20the%20Town%20Judge.md)|Hash Table, Graph|
 |JAN 4|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)||Bit Manipulation|
 |JAN 5|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%205_Palindrome%20Partitioning.md)|Backtracking|💡
-|JAN 6|[Car Pooling](https://leetcode.com/problems/car-pooling/)||Sorting, Heap|
+|JAN 6|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%206_Car%20Pooling.cpp)|Sorting, Heap|
 |JAN 7|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)||LinkedList|
 |JAN 8|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)||DP,Matrix|💡|
 |JAN 9|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)||String
@@ -24,7 +24,7 @@
 |JAN 22|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/)||DP|💡
 |JAN 23|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)||Enumeration|
 |JAN 24|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2024_Detect%20Capital.cpp)|String
-|JAN 25|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)||Array
+|JAN 25|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2025_Valid%20Mountain%20Array.cpp)|Array
 |JAN 26| [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)||Binary Search Tree ,Sorting |💡|
 |JAN 27| [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)||Hash Table, Bit Manipulation|💡 | 
 |JAN 28 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)||DFS, Trie |💡|
