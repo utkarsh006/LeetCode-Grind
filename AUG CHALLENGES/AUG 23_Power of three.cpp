@@ -10,6 +10,9 @@ Example 2:
 
 Input: n = 0
 Output: false
+*/
+
+/*
 
 Approach:
 
@@ -32,7 +35,8 @@ Algorithm:
 
 class Solution {
 public:
-bool isPowerOfThree(int n) {
+bool isPowerOfThree(int n) 
+{
 
     if(n==0){
         return false;
@@ -40,7 +44,8 @@ bool isPowerOfThree(int n) {
     
     while(n!=1){
         
-        if(n%3!=0){
+        if(n%3!=0)
+        {
             return false;
         }
         
