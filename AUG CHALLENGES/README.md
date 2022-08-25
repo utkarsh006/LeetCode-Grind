@@ -22,4 +22,6 @@
 |AUG 20| [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)| DP, Greedy | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2020_Minimum%20Number%20of%20Refueling%20Stops.cpp) | 💡 |
 |AUG 21| [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)| Greedy || 💡 |
 |AUG 22| [Power of Four](https://leetcode.com/problems/power-of-four/)| Bit Manipulation || 💡 |
+|AUG 23| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| Linked List || 💡 |
+|AUG 24| [Power of Three](https://leetcode.com/problems/power-of-three/)| Math, Recursion || |
 
