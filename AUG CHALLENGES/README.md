@@ -14,3 +14,4 @@
 |AUG 12| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| Binary Tree |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2012_Lowest%20Common%20Ancestor%20of%20BST.cpp)| 💡 |
 |AUG 13| [ Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| String || 💡 |
 
+|AUG 23| [Power of three](https://leetcode.com/problems/power-of-three/)| Recursion ||  |
