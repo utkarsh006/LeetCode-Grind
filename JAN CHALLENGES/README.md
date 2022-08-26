@@ -15,9 +15,9 @@
 |JAN 13|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)||Greedy|
 |JAN 14|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)||String
 |JAN 15|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)||Hash Table, BFS|
-|JAN 16|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)||Array|
+|JAN 16|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2016_Maximize%20Distance%20to%20Closest%20Person.cpp)|Array|
 |JAN 17|[Word Pattern](https://leetcode.com/problems/word-pattern/)||Hash Table|💡
-|JAN 18|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)||Greedy
+|JAN 18|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2018_Can%20Place%20Flowers.cpp)|Greedy
 |JAN 19|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2019_Linked%20List%20Cycle%20II.md)|Linked List|💡
 |JAN 20|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)||Binary Search|
 |JAN 21|[Gas Station](https://leetcode.com/problems/gas-station/)|[Link](https://github.com/utkarsh006/LeetCode-Grind/blob/main/JAN%20CHALLENGES/JAN%2021_Gas%20Station.cpp)|Greedy|💡
