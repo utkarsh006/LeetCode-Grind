@@ -17,7 +17,7 @@
 |FEB 15|[Single Number](https://leetcode.com/problems/single-number/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2015_Single%20number.cpp)|
 |FEB 16|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Linked List||💡
 |FEB 17|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2017_Combination%20Sum.cpp)|💡
-|FEB 18|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|Stack||💡
+|FEB 18|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|Stack|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2018_Remove%20K%20Digits.cpp)|💡
 |FEB 19|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|Greedy|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2019_Minimize%20deviation%20in%20array.cpp)|💡
 |FEB 20|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|Sorting|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2020_Remove%20Covered%20Intervals.cpp)|💡
 |FEB 21|[Majority Element](https://leetcode.com/problems/majority-element/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2021_Majority%20Element.cpp)|
