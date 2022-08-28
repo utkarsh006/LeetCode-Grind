@@ -25,4 +25,6 @@
 |AUG 23| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| Linked List |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2023_Palindrome%20Linked%20List.cpp)| 💡 |
 |AUG 24| [Power of Three](https://leetcode.com/problems/power-of-three/)| Math, Recursion || |
 |AUG 25| [Ransom Note](https://leetcode.com/problems/ransom-note/)| String, HashTable || |
+|AUG 26| [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)| Math, Counting || |
+|AUG 27| [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)| Binary Search || |
 
