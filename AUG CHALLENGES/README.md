@@ -23,9 +23,10 @@
 |AUG 21| [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)| Greedy || 💡 |
 |AUG 22| [Power of Four](https://leetcode.com/problems/power-of-four/)| Bit Manipulation |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2022_Power%20of%20Four.cpp)| 💡 |
 |AUG 23| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| Linked List |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2023_Palindrome%20Linked%20List.cpp)| 💡 |
-|AUG 24| [Power of Three](https://leetcode.com/problems/power-of-three/)| Math, Recursion || 💡 |
-|AUG 25| [Ransom Note](https://leetcode.com/problems/ransom-note/)| String, HashTable || |
+|AUG 24| [Power of Three](https://leetcode.com/problems/power-of-three/)| Math, Recursion |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2024_Power%20of%20Three.cpp)| 💡 |
+|AUG 25| [Ransom Note](https://leetcode.com/problems/ransom-note/)| String, HashTable |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2025_Ransom%20Note.cpp)| |
 |AUG 26| [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)| Math, Counting || |
 |AUG 27| [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)| Binary Search || |
-|AUG 27| [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)| Sorting, Matrix ||💡 |
+|AUG 28| [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)| Sorting, Matrix ||💡 |
+|AUG 29| [Number of Islands](https://leetcode.com/problems/number-of-islands/)| DFS, Matrix ||💡 |
 
