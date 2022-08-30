@@ -28,4 +28,4 @@
 |AUG 26| [Reordered Power Of 2](https://leetcode.com/problems/reordered-power-of-2/)| Sorting, Enumeration |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%2026_Reordered%20Power%20Of%202.cpp)| 💡 |
 |AUG 27| [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)| Array, Binary Search || 💡 |
 |AUG 28| [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)| Sorting, Matrix || 💡 |
-
+|AUG 29| [Number of Islands](https://leetcode.com/problems/number-of-islands/)| DFS, Matrix ||💡 |
