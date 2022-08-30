@@ -29,3 +29,5 @@
 |AUG 27| [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)| Array, Binary Search || 💡 |
 |AUG 28| [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)| Sorting, Matrix || 💡 |
 |AUG 29| [Number of Islands](https://leetcode.com/problems/number-of-islands/)| DFS, Matrix ||💡 |
+|AUG 30| [Rotate Image](https://leetcode.com/problems/rotate-image/)| Math, Matrix ||💡 |
+
