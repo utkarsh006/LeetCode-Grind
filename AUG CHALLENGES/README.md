@@ -16,7 +16,7 @@
 |AUG 14| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)| Hash Table, BFS || |
 |AUG 15| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| Hash Table | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2015_Roman%20to%20Integer.cpp) | |
 |AUG 16| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| String | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2016_First%20Unique%20Character%20in%20a%20String.md)| 💡 |
-|AUG 17| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| String || 💡 |
+|AUG 17| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| String |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2017_Unique%20Morse%20Code%20Words.cpp)| 💡 |
 |AUG 18| [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)| Heap, Hash Map | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2018_Reduce%20Array%20Size%20to%20The%20Half.cpp)| 💡 |
 |AUG 19| [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)| Heap, Hash Map | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2019_Split%20Array%20into%20Consecutive%20Subsequences.cpp)| 💡 |
 |AUG 20| [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)| DP, Greedy | [LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2020_Minimum%20Number%20of%20Refueling%20Stops.cpp) | 💡 |
@@ -28,4 +28,7 @@
 |AUG 26| [Reordered Power Of 2](https://leetcode.com/problems/reordered-power-of-2/)| Sorting, Enumeration |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%2026_Reordered%20Power%20Of%202.cpp)| 💡 |
 |AUG 27| [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)| Array, Binary Search || 💡 |
 |AUG 28| [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)| Sorting, Matrix || 💡 |
+|AUG 29| [Number of Islands](https://leetcode.com/problems/number-of-islands/)| DFS, Matrix |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2029_Number%20of%20Islands.cpp)|💡 |
+|AUG 30| [Rotate Image](https://leetcode.com/problems/rotate-image/)| Math, Matrix |[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/AUG%20CHALLENGES/AUG%2030_Rotate%20Image.cpp)|💡 |
+|AUG 31| [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)| DFS, Matrix ||💡 |
 
