@@ -23,7 +23,7 @@
 |FEB 21|[Majority Element](https://leetcode.com/problems/majority-element/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2021_Majority%20Element.cpp)|
 |FEB 22|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|String||
 |FEB 23|[Clone Graph](https://leetcode.com/problems/clone-graph/)|Graph|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2023_Clone%20Graph.cpp)|💡
-|FEB 24|[Sort List](https://leetcode.com/problems/sort-list/)|Linked List||💡
+|FEB 24|[Sort List](https://leetcode.com/problems/sort-list/)|Linked List|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2024_Sort%20List.cpp)|💡
 |FEB 25|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|String||
 |FEB 26|[Shortest Path visiting all Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|Tree||💡
 |FEB 27|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|Tree||💡
