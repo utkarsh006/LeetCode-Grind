@@ -26,6 +26,7 @@
 |MAY CHALLENGES|[LINK](https://github.com/utkarsh006/LEETCODE-MONTHLY-CHALLENGES/tree/main/MAY%20CHALLENGES)|
 |JUNE CHALLENGES|[LINK](https://github.com/utkarsh006/LEETCODE-MONTHLY-CHALLENGES/tree/main/JUNE%20CHALLENGES)|
 |JULY CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/JULY%20CHALLENGES)|
+|AUG CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/AUG%20CHALLENGES)|
 
   </div>
 
