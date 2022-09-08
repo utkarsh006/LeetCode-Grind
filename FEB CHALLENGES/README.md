@@ -11,19 +11,19 @@
 |FEB 9|[K Different Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%209%20_K%20diff%20pairs%20in%20array.cpp)|💡
 |FEB 10|[SubArray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2010_Subarray%20sum%20equals%20k.cpp)|💡
 |FEB 11|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|String|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2011_Permutations%20in%20string.cpp)|💡
-|FEB 12|[Word Ladder](https://leetcode.com/problems/word-ladder/)|String||
+|FEB 12|[Word Ladder](https://leetcode.com/problems/word-ladder/)|String|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2012_Word%20Ladder.cpp)|
 |FEB 13|[Subsets](https://leetcode.com/problems/subsets/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2013_SUBSETS.cpp)|
 |FEB 14|[Maximum Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Tree|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2014_Max%20depth%20of%20btree.cpp)|💡
 |FEB 15|[Single Number](https://leetcode.com/problems/single-number/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2015_Single%20number.cpp)|
 |FEB 16|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Linked List||💡
-|FEB 17|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Array||
-|FEB 18|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|Stack||💡
+|FEB 17|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2017_Combination%20Sum.cpp)|💡
+|FEB 18|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|Stack|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2018_Remove%20K%20Digits.cpp)|💡
 |FEB 19|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|Greedy|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2019_Minimize%20deviation%20in%20array.cpp)|💡
 |FEB 20|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|Sorting|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2020_Remove%20Covered%20Intervals.cpp)|💡
 |FEB 21|[Majority Element](https://leetcode.com/problems/majority-element/)|Array|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2021_Majority%20Element.cpp)|
 |FEB 22|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|String||
-|FEB 23|[Clone Graph](https://leetcode.com/problems/clone-graph/)|Graph||💡
-|FEB 24|[Sort List](https://leetcode.com/problems/sort-list/)|Linked List||💡
+|FEB 23|[Clone Graph](https://leetcode.com/problems/clone-graph/)|Graph|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2023_Clone%20Graph.cpp)|💡
+|FEB 24|[Sort List](https://leetcode.com/problems/sort-list/)|Linked List|[Solution](https://github.com/utkarsh006/LeetCode-Grind/blob/main/FEB%20CHALLENGES/FEB%2024_Sort%20List.cpp)|💡
 |FEB 25|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|String||
 |FEB 26|[Shortest Path visiting all Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|Tree||💡
 |FEB 27|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|Tree||💡
