@@ -1,11 +1,11 @@
 <!-- Remove this section if not applicable -->
 
-## 🛠️ Fixes Issue
+## 🛠️ Issue Fixed
 
-Closes #
+Closes 
 <!-- Example: Closes #31 -->
 
-## 👨‍💻 Changes proposed
+## 👨‍💻 Changes Proposed
 
 <!-- List all the proposed changes in your PR -->
 
