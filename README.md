@@ -1,6 +1,10 @@
 # LEETCODE CHALLENGES 2022
 <p align = "center"> <img width = 500 src = "https://user-images.githubusercontent.com/94545831/177241813-6625bc1e-def6-4cf4-81f8-0d8414be483f.png" /> </p>
 
+<div align="center">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</div>
+<br>
 
 <div align="center">
 
@@ -54,7 +58,7 @@
 
 <br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-F55D45?style=for-the-badge" /></a></p>
     
 <h1 align="center">Project Admin</h1>
 
