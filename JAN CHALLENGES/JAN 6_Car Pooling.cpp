@@ -34,8 +34,7 @@ Carpooling simply refers to packing the vehicle full with people.
 */
 
 
-class Solution
-{
+class Solution {
 public:
     bool carPooling(vector<vector<int>>& trips, int capacity)
     {
@@ -55,9 +54,10 @@ public:
             if(carLoad > capacity) return false;
         }
 
-        return true; // Accepting only the safe trips
-
-
+        return true; // Accepted only safe trips
+    }
+};
+        
 
 /*
 Time Complexity :- O(n), where n is the number of trips.
