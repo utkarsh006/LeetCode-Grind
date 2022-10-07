@@ -77,7 +77,7 @@
 </table>
 <br>
 
-## 🤠 **Our valuable Contributors**
+## Contributors
 
 <a href="https://github.com/utkarsh006/LeetCode-Grind/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=utkarsh006/LeetCode-Grind" />
