@@ -1,3 +1,6 @@
 |DATE|PROBLEM|SOLUTION|TOPIC|IMPORTANT|
 |-----|-------|--------|-----|---------|
 |SEP 1|[Count Good Nodes in a Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/SEPT%20CHALLENGES/SEP%201_%20Count%20Good%20Nodes.cpp)|Binary Trees|
+|SEP 2|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/SEPT%20CHALLENGES/SEP%202_Average%20of%20Levels%20in%20Binary%20Tree.cpp)|Binary Trees|
+|SEP 3|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/SEPT%20CHALLENGES/SEP%203_%20Numbers%20With%20Same%20Consecutive%20Differences.cpp)|Backtracking|
+|SEP 4|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/SEPT%20CHALLENGES/SEP%204_VerticalOrderTraversal.cpp)|Binary Trees|
