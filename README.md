@@ -30,6 +30,7 @@
 |JULY CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/JULY%20CHALLENGES)|
 |AUG CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/AUG%20CHALLENGES)|
 |SEPT CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/SEPT%20CHALLENGES)|
+|OCT CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/OCT%20CHALLENGES)|
 
 
   </div>
