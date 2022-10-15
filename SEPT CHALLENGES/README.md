@@ -27,7 +27,7 @@
 |SEP 25|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/SEPT%20CHALLENGES/Sept%2025_Design%20Circular%20Queue.cpp)|Queues|
 |SEP 26|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)||Graph|
 |SEP 27|[Push Dominoes](https://leetcode.com/problems/push-dominoes/)||Dynamic Programming|
-|SEP 28|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)||Linked List|
+|SEP 28|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[LINK](https://github.com/utkarsh006/LeetCode-Grind/blob/main/SEPT%20CHALLENGES/Sept%2025_Design%20Circular%20Queue.cpp)|Linked List|
 |SEP 29|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)||Heap|
 |SEP 30|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)||Divide and Conquer|
 
