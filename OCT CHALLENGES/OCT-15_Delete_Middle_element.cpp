@@ -1,3 +1,11 @@
+// Explanation:
+/*The Approch is to use two pointer concept one is slow and another one is fast
+    Slow pointer will move one node at each iteration  while fast will move two node with each iterartion
+    i.e when the fast reached at NULL pointer the slow will be at MIDDLE NODE and will be delete that node.
+    TIME Complexity: O(n)
+    SPACE Complexity: O(1)
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
