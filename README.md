@@ -41,14 +41,11 @@
 
 ## **Open Source programs this repo has been part of**
 
-
-
 <br>
 
-<div align="center"> <p>
-    <img height="200" src="https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" height="200px" width="200px" alt="hackclubrait summer of code">
-    <img width = "300" src="https://user-images.githubusercontent.com/94545831/194567878-721f85c8-0d04-4ca7-b460-2678ac909cca.jpg"></p>
-
+<div align="center">
+    <img src="https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" height="200px" width="200px" alt="hackclubrait summer of code">
+    <img align="right" src="https://user-images.githubusercontent.com/94545831/194567878-721f85c8-0d04-4ca7-b460-2678ac909cca.jpg" width="500" height="200" alt="hactoberfest 2022">
 </div>
 
 <br>
