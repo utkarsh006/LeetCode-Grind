@@ -13,5 +13,3 @@ jobs:
     steps:
       - name: initial labeling
         uses: andymckay/labeler@master
-        with:
-          add-labels: 'Issue Fixed'

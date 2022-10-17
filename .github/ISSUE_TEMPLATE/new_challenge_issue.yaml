@@ -1,7 +1,7 @@
 name: New Challenge Issue
 description: LeetCode-Grind
 title: "[New Issue]: "
-labels: 'new-issue'
+labels: 'hacktoberfest'
 body:
   - type: markdown
     attributes:
