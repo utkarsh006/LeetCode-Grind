@@ -6,4 +6,10 @@
 | 6    | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                     | [link](https://github.com/utkarsh006/LeetCode-Grind/blob/OCT6/OCT%20CHALLENGES/OCT-6_Insert-into-a-Binary-Search-Tree) | Binary Tree        | 💡        |
 | 7    | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                             | [link]()                                                                                                               | Linked List        | 💡        |
 | 8    | [Delete Middle Node in a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/) | [link](https://github.com/utkarsh006/LeetCode-Grind/blob/OCT%20CHALLENGES/OCT-15_Delete_Middle_element.cpp)          | Linked List        | 💡        |
-| 9    | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                 | [link]()                                                                                                               | BST                | 💡        |
+| 9    | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                 | [link]()                                                                                                        
+       | BST                | 💡        |
+
+
+|18 OCT|    [Count and Say]     | [https://leetcode.com/problems/count-and-say/description/]
+| [STRING ] |
+
