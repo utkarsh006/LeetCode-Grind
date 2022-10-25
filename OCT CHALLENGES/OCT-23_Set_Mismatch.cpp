@@ -1,9 +1,9 @@
-Approach :
-1)First take a set {set avoids the duplicates and stores only the unique elements}
-2)Find the sum of all elements in the set and store in the actual_sum
-3)Now find the sum of all the numbers from 1 to n and store in expected_sum
-4)(expected_sum-actual_sum) will give the missing element
-5)(sum_of_vector_elements-actual_sum) gives the repeated number 
+//Approach :
+//1)First take a set {set avoids the duplicates and stores only the unique elements}
+//2)Find the sum of all elements in the set and store in the actual_sum
+//3)Now find the sum of all the numbers from 1 to n and store in expected_sum
+//4)(expected_sum-actual_sum) will give the missing element
+//5)(sum_of_vector_elements-actual_sum) gives the repeated number 
 
 
 vector<int> findErrorNums(vector<int>& nums) {
@@ -24,5 +24,5 @@ vector<int> findErrorNums(vector<int>& nums) {
     return {repeatedNum, missingNum};
 }
 
-Time Complexity:O(n)
-Space Complexity:O(n)
+//Time Complexity:O(n)
+//Space Complexity:O(n)
