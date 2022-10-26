@@ -18,9 +18,11 @@ Space complexity:
 O(n)
 */
 
-class Solution {
+class Solution
+{
 public:
-    int rf(int index, string &colors, vector<int> &neededTime, vector<int> &dp, char prevColor, int prevMinTime){
+    int rf(int index, string &colors, vector<int> &neededTime, vector<int> &dp, char prevColor, int prevMinTime)
+    {
         int step=0, step2=0;
         if(index < 0) return 0;
         if(dp[index] != -1) return dp[index];
@@ -31,7 +33,8 @@ public:
         return dp[index] = step;
     }
 
-    int minCost(string colors, vector<int>& neededTime) {
+    int minCost(string colors, vector<int>& neededTime)
+    {
         int n = neededTime.size();
         vector<int> dp(n, -1);
         return rf(n-1, colors, neededTime, dp, 'A', 0);
