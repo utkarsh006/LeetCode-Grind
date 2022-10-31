@@ -17,7 +17,7 @@
  * };
  */
 
-#include <bits stdc++.h="">
+#include <iostream>
 using namespace std;
 struct Node {
     int val;
@@ -88,4 +88,3 @@ int main()
     display_List(head);
     return 0;
 }
-</bits>
