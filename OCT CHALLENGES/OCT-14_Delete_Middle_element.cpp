@@ -19,7 +19,8 @@
 
 #include <iostream>
 using namespace std;
-struct Node {
+struct Node 
+{
     int val;
     struct Node* next;
 };
