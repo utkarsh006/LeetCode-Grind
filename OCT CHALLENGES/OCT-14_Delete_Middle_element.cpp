@@ -16,22 +16,51 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution
+#include <bits/stdc++.h>
+using namespace std;
+
+ // Function that deletes the middle of the stack of size n. Current is current 
+ // position we’re on 
+void deleteMiddle(stack<int> &s, int n,int current)
 {
-public:
-    ListNode *deleteMiddle(ListNode *head)
+   // If stack becomes empty or all items already are traversed
+   if (s.empty() || current == n)
+     return;
+ 
+   // Remove current item
+   int x = s.top();
+   s.pop();
+ 
+   // Call for removing the other items
+   deleteMiddle(s, n, current+1);
+ 
+   // Push all the elements back other than the middle one
+   if (current != n/2)
+     s.push(x);
+}
+
+int main()
+{
+    stack<int> s;
+ 
+    //push elements into the stack
+    s.push(5);
+    s.push(6);
+    s.push(7);
+    s.push(8);
+    s.push(9);
+    s.push(10);
+    s.push(11);
+    int current = 0;
+    deleteMiddle(s, s.size(),current);
+ 
+    // Printing stack after deletion of the middle element.
+    while (!s.empty())
     {
-        if (head == nullptr || head->next == nullptr)
-            return nullptr;
-        ListNode *slow = head, *fast = head;
-        ListNode *prev = nullptr;
-        while (fast != nullptr && fast->next != nullptr)
-        {
-            prev = slow;
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-        prev->next = slow->next;
-        return head;
+        int p = s.top();
+        s.pop();
+        cout << p << " ";
     }
-};
+    return 0;
+   
+}
