@@ -1,6 +1,7 @@
 # LEETCODE CHALLENGES 2022
-<p align = "center"> <img width = 500 src = "https://user-images.githubusercontent.com/94545831/177241813-6625bc1e-def6-4cf4-81f8-0d8414be483f.png" /> </p>
-
+<p align="center"> 
+  <img width="600" height="280" src="https://github.com/utkarsh006/LeetCode-Grind/blob/main/.github/banner.png" /> 
+</p>
 
 <div align="center">
 
@@ -76,9 +77,3 @@
 <a href="https://github.com/utkarsh006/LeetCode-Grind/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=utkarsh006/LeetCode-Grind" />
 </a>
-
-<div align="center">
-
-### Show some ❤️ by starring this awesome repository!
-
-</div>
