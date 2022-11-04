@@ -33,8 +33,7 @@
 |SEPT CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/SEPT%20CHALLENGES)|
 |OCT CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/OCT%20CHALLENGES)|
 
-
-  </div>
+</div>
 
 
 😎✌ **Check the [Contributing Guidelines](https://github.com/utkarsh006/LeetCode-Grind/blob/main/Guidelines.md)**
