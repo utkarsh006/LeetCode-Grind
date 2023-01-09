@@ -1,3 +1,23 @@
+<details><summary><h2>Overall Breakdown of Monthly Topics : January 2022 </h2></summary>
+
+- DP : 4
+- HASHING : 2
+- GRAPHS : 1
+- Bit Manipulation : 3
+- Recursion & Backtracking : 1
+- Heaps : 1
+- Linked List : 2
+- Strings : 3
+- Trees : 3
+- BFS : 1
+- Binary Search : 2
+- Greedy : 2
+- Matrix : 1
+- Two Pointers : 1
+
+</details>
+<br> 
+
 |DATE|PROBLEM|SOLUTION|TOPIC|IMPORTANT|
 |----|-------|--------|-----|---------|
 |JAN 1|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)||Dynamic Programming|💡
