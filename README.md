@@ -1,44 +1,19 @@
-# LEETCODE CHALLENGES 2022
-<p align="center"> 
-  <img width="600" height="280" src="https://github.com/utkarsh006/LeetCode-Grind/blob/main/.github/banner.png" /> 
-</p>
+## LeetCode Challenges 2022 & 2023
 
-<div align="center">
+![Github Repo Size](https://img.shields.io/github/repo-size/utkarsh006/LeetCode-Grind?style=for-the-badge&color=aqua) 
+- **Check the [Contributing Guidelines](https://github.com/utkarsh006/LeetCode-Grind/blob/main/Guidelines.md)**
 
-![GitHub contributors](https://img.shields.io/github/contributors/utkarsh006/LeetCode-Grind?style=for-the-badge&color=blue)
-![GitHub Closed issues](https://img.shields.io/github/issues-closed-raw/utkarsh006/LeetCode-Grind?style=for-the-badge&color=brightgreen)
-![GitHub PR Open](https://img.shields.io/github/issues-pr/utkarsh006/LeetCode-Grind?style=for-the-badge&color=aqua)
-![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/utkarsh006/LeetCode-Grind?style=for-the-badge&color=blue)
-![GitHub language count](https://img.shields.io/github/languages/count/utkarsh006/LeetCode-Grind?style=for-the-badge&color=brightgreen)
-![GitHub top language](https://img.shields.io/github/languages/top/utkarsh006/LeetCode-Grind?style=for-the-badge&color=aqua)
-![GitHub last commit](https://img.shields.io/github/last-commit/utkarsh006/LeetCode-Grind?style=for-the-badge&color=blue)
-![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
-![Github Repo Size](https://img.shields.io/github/repo-size/utkarsh006/LeetCode-Grind?style=for-the-badge&color=aqua)
+## Visions 🤩
+
+- We believe that doing a consistent amount of Leetcode for 2 years will help you build your problem skills and would give you a set of approx. 700+ Questions which 
+would help you guys cracking your Interview.
+
+- We also believe that our Repo is beginner friendly if you want to start up your journey in Open Source contributions. So, YEAHHH go for it. 😍
+
+<br>
 
 
-</div>
-
-<div align = "center">
-  
-| |   |
-|------|------|
-|JANUARY CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/JAN%20CHALLENGES)|
-|FEBRUARY CHALLENGES|[LINK](https://github.com/utkarsh006/LEETCODE-MONTHLY-CHALLENGES/tree/main/FEB%20CHALLENGES)|
-|MARCH CHALLENGES|[LINK](https://github.com/utkarsh006/LEETCODE-MONTHLY-CHALLENGES/tree/main/MARCH%20CHALLENGES)|
-|APRIL CHALLENGES|[LINK](https://github.com/utkarsh006/LEETCODE-MONTHLY-CHALLENGES/tree/main/APR%20CHALLENGES)|
-|MAY CHALLENGES|[LINK](https://github.com/utkarsh006/LEETCODE-MONTHLY-CHALLENGES/tree/main/MAY%20CHALLENGES)|
-|JUNE CHALLENGES|[LINK](https://github.com/utkarsh006/LEETCODE-MONTHLY-CHALLENGES/tree/main/JUNE%20CHALLENGES)|
-|JULY CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/JULY%20CHALLENGES)|
-|AUG CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/AUG%20CHALLENGES)|
-|SEPT CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/SEPT%20CHALLENGES)|
-|OCT CHALLENGES|[LINK](https://github.com/utkarsh006/LeetCode-Grind/tree/main/OCT%20CHALLENGES)|
-
-</div>
-
-
-😎✌ **Check the [Contributing Guidelines](https://github.com/utkarsh006/LeetCode-Grind/blob/main/Guidelines.md)**
-
-
+ 
 ## **Open Source programs this repo has been part of**
 
 <br>
@@ -50,7 +25,7 @@
 
 <br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
     
 <h1 align="center">Project Admin</h1>
 
