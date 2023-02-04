@@ -14,14 +14,14 @@ would help you guys cracking your Interview.
 
 
  
-## This Repo participated in 😎
+<details><summary><h2> This Repo participated in 😎  </h2></summary>
 
-<br>
+|||
+|--|--|
+|<img src="https://media.licdn.com/dms/image/C4E0BAQHN1aAA06huNg/company-logo_200_200/0/1632670084686?e=1681948800&v=beta&t=HOz60qMH_k5dt5OCTEscgm_OoxZkA4tcDBk1lYtJ1xM" height="200px" width="200px" alt="hackclubrait summer of code">|**Hackclub RAIT Summer Of Code 2022**|
+|<img width="400" src="https://user-images.githubusercontent.com/94545831/194567878-721f85c8-0d04-4ca7-b460-2678ac909cca.jpg" width="500" height="200" alt="hactoberfest 2022">|**Hacktoberfest 2022**|
 
-<div align="center">
-    <img src="https://media.licdn.com/dms/image/C4E0BAQHN1aAA06huNg/company-logo_200_200/0/1632670084686?e=1681948800&v=beta&t=HOz60qMH_k5dt5OCTEscgm_OoxZkA4tcDBk1lYtJ1xM" height="200px" width="200px" alt="hackclubrait summer of code">
-    <img align="right" src="https://user-images.githubusercontent.com/94545831/194567878-721f85c8-0d04-4ca7-b460-2678ac909cca.jpg" width="500" height="200" alt="hactoberfest 2022">
-</div>
+</details>
 
 <br>
 
