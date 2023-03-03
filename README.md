@@ -28,9 +28,9 @@ would help you guys cracking your Interview.
 
 ## Connect With Us 
 
-| Maintainer   | Collaborator |
-| :----------: | :----------: |
-| <a href="https://github.com/utkarsh006"><img src="https://avatars.githubusercontent.com/u/94545831?v=4" width=150px height=150px /></a><br>Utkarsh Saxena<br><a href="https://www.linkedin.com/in/utkarsh06/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a> | <a href="https://github.com/gurjeetsinghvirdee"><img src="https://avatars.githubusercontent.com/u/73753957?v=4" width=150px height=150px /></a></br>Gurjeet Singh Virdee</h4><br/><a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a>
+| Maintainer   | Mentor 1 | Mentor 2|
+| :----------: | :----------: | :----------: |
+| <a href="https://github.com/utkarsh006"><img src="https://avatars.githubusercontent.com/u/94545831?v=4" width=150px height=150px /></a><br>Utkarsh Saxena<br><a href="https://www.linkedin.com/in/utkarsh06/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a> | <a href="https://github.com/gurjeetsinghvirdee"><img src="https://avatars.githubusercontent.com/u/73753957?v=4" width=150px height=150px /></a></br>Gurjeet Singh Virdee</h4><br/><a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a> | <a href="https://github.com/nishkarsh800"><img src="https://avatars.githubusercontent.com/u/94742536?v=4" width=150px height=150px /></a><br>Nishkarsh Saxena<br><a href="https://www.linkedin.com/in/nishkarsh800/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a>|
 
 <br>
 
