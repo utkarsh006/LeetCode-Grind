@@ -1,8 +1,13 @@
-## CONTRIBUTING GUIDELINES
+### Resources if you are contributing First Time 😎
+
+- [How to begin with Open Source](https://medium.com/@utkarsh06/open-source-for-beginners-the-endgame-7da09bf80c0d)
+- [The Open Source Playlist](https://www.youtube.com/playlist?list=PLJHIvga3HLZz_oYBYScgA3IpS4pCFof5n)
+
+### CONTRIBUTING GUIDELINES
 We are happy to welcome all the contributions from anyone willing to improve this project. <br>
 Thank you for helping out and remember, **no contribution is too small**. <br>
 <br>
-- Add only the problems which have been a part of **Daily LeetCode Challenge for 2022.**
+- Add only the problems which have been a part of **Daily LeetCode Challenge for 2022 & 2023**
 - Update the README as per your question.
 - Add any problem if it is not present in the folder.
 - Code must be ```written in C++``` and should be saved with the ```extension .cpp```.
@@ -14,6 +19,9 @@ Thank you for helping out and remember, **no contribution is too small**. <br>
 
 👻 **Now, Follow these steps :-**
 ### Step 1 : Create an issue
+- Give proper Issue Title such as : ```Jan1 2022 - TwoSum Problem ```
+- Give Problem Link in the description of the issue.
+
 ### Step 2 : Fork the Project
 - ```Fork this Repository. This will create a Local Copy of this Repository on your Github Profile. Keep a reference to the original project in upstream remote.```
 - ```$ git clone https://github.com/<your-username>/LeetCode-Grind```
@@ -43,9 +51,5 @@ Thank you for helping out and remember, **no contribution is too small**. <br>
 
 - Yahoo ! Your Pull Request has been submitted and will be reviewed by the moderators and merged.🥳
 
-<br> 
-Heya! Don't Worry 😇
-
-It always takes time to understand and learn. So, do not worry at all. We know you have got this!💪 <br>
 
 
