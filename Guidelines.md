@@ -7,15 +7,15 @@
 We are happy to welcome all the contributions from anyone willing to improve this project. <br>
 Thank you for helping out and remember, **no contribution is too small**. <br>
 <br>
-- Add only the problems which have been a part of **Daily LeetCode Challenge for 2022 & 2023**
-- Update the README as per your question.
-- Contribute only **single question** at a time.
-- Add any problem if it is not present in the folder.
-- Code must be ```written in C++``` and should be saved with the ```extension .cpp```.
-- If any problem is Important in perspective of an interview, mark it as 💡
-- **Add the approach** with proper comments, along with its Time and Space Complexity.
-- Use Braces from the **next line.**
-- Add the **explanation of the problem** if it is not there.
+- **Guideline 1** : Add only the problems which have been a part of **Daily LeetCode Challenge for 2022 & 2023**
+- **Guideline 2** : Update the README as per your question.
+- **Guideline 3** : Contribute only **single question** at a time.
+- **Guideline 4** : Add any problem if it is not present in the folder.
+- **Guideline 5** : Code must be ```written in C++``` and should be saved with the ```extension .cpp```.
+- **Guideline 6** : If any problem is important in perspective for the interviews, mark it as 💡
+- **Guideline 7** : **Add the approach** with proper comments, along with its Time and Space Complexity.
+- **Guideline 8** : Use Braces from the **next line** in your code.
+- **Guideline 9** : Add the **explanation of the problem** if it is not there.
 <br>
 
 👻 **Now, Follow these steps :-**
