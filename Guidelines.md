@@ -48,9 +48,10 @@ Thank you for helping out and remember, **no contribution is too small**. <br>
 - ```$ git push -u origin Branch_Name```
 
 ### Step 7 : Pull Request
-- Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.
+- Go to your repository in browser and click on `compare and pull requests`. Then add a title and description to your pull request that explains your contribution.
 
-- Yahoo ! Your Pull Request has been submitted and will be reviewed by the moderators and merged.🥳
+- Your Pull Request has been submitted and will be reviewed by the moderators and merged 😎
+- **Delete the branch** after your PR gets merged as a good coding practice.
 
 
 
