@@ -2,6 +2,7 @@
 
 ![Github Repo Size](https://img.shields.io/github/repo-size/utkarsh006/LeetCode-Grind?style=for-the-badge&color=aqua) 
 - **Check the [Contributing Guidelines](https://github.com/utkarsh006/LeetCode-Grind/blob/main/Guidelines.md)**
+- How to begin Open Source? [Click here](https://medium.com/@utkarsh06/open-source-for-beginners-the-endgame-7da09bf80c0d)
 
 ## Visions 🤩
 
