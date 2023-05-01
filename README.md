@@ -19,8 +19,8 @@ would help you guys cracking your Interview.
 
 |||
 |--|--|
-|<img src="https://media.licdn.com/dms/image/C4E0BAQHN1aAA06huNg/company-logo_200_200/0/1632670084686?e=1681948800&v=beta&t=HOz60qMH_k5dt5OCTEscgm_OoxZkA4tcDBk1lYtJ1xM" height="200px" width="200px" alt="hackclubrait summer of code">|**Hackclub RAIT Summer Of Code 2022**|
-|<img width="400" src="https://user-images.githubusercontent.com/94545831/194567878-721f85c8-0d04-4ca7-b460-2678ac909cca.jpg" width="500" height="200" alt="hactoberfest 2022">|**Hacktoberfest 2022**|
+|<img src="https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" height="200px" width="200px" alt="hackclubrait summer of code">|**Hackclub RAIT Summer Of Code 2022**|
+|<img src="https://github.com/utkarsh006/LeetCode-Grind/blob/main/.github/hactoberfest%20badge.jpg" width="200" height="200" alt="hactoberfest 2022">|**Hacktoberfest 2022**|
 
 </details>
 
