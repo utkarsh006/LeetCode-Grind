@@ -1,84 +1,58 @@
 class Solution {
 public:
-    // Class to carry three values at a time
-    class tuple
-    {
-        public:
-        int node; // on which current node we are standing
-        int mask; // mask of that node
-        int cost; // cost of path explore by this node
-        tuple(int node, int mask, int cost)
-        {
-            this -> node = node;
-            this -> mask = mask;
-            this -> cost = cost;
-        }
-    };
-    
+
+   typedef pair<int, int> P;
     
     int shortestPathLength(vector<vector<int>>& graph) {
-        // total number of nodes present
-        int n = graph.size(); // extracting size of graph
         
-        
-        queue<tuple> q; // queue of class tuple type
-        
-         // set to take care which path we have already visited
-        set<pair<int, int>> vis;
-        
-        int all = (1 << n) - 1; // if all nodes visited then
-            
-        // we don't know which node will give us shortest path so intially for all nodes we will store in our queue
-        for(int i = 0; i < n; i++)
-        {
-            int maskValue = (1 << i); // 2 ^ i
-            
-            tuple thisNode(i, maskValue, 1); // make a tuple for every nod
-            
-            q.push(thisNode); // push tuple into our queue
-            
-            vis.insert({i, maskValue}); // also update into our set
+        int n = graph.size();
+        if(n==1 || n==0) return 0;
+
+        queue<P> que;  //{node,mask}
+        set<P> visited;   //{node, PathMask}
+
+        //BFS for all nodes
+        for(int i=0; i<n; i++){
+
+            int maskValue = (1 << i);
+
+            que.push({i, maskValue});
+
+            visited.insert({i, maskValue});
+
         }
-        
-        // Implementing BFS
-        while(q.empty() == false) // until queue is not empty
-        {
-            tuple curr = q.front(); // extracting front tuple
-            q.pop(); // pop from queuu
-            
-            // if mask value becomes all, that means we have visited all of our nodes, so from here return cost - 1
-            if(curr.mask == all) 
-            {
-                return curr.cost - 1;
-            }
-            
-            // if not, start exploring in its adjcant
-            for(auto &adj: graph[curr.node])
-            {
-                int bothVisitedMask = curr.mask; // current mask
-                
-                // we are moving from one node o anthor node
-                bothVisitedMask = bothVisitedMask | (1 << adj); 
-                
-                // make tuple of this path
-                tuple ThisNode(adj, bothVisitedMask, curr.cost + 1);
-                
-                // if this path is not explored i.e
-                // if it is not present in our set then,
-                if(vis.find({adj, bothVisitedMask}) == vis.end())
+
+        //when all nodes are visited, bit value = 1111
+        int allVisitedState = (1 << n) - 1;   //2^n-1
+
+        int path = 0;
+
+           while(!que.empty())
+           {
+               int size = que.size();
+               path++;
+
+                while(size--)
                 {
-                    vis.insert({adj, bothVisitedMask}); // insert into set
-                    
-                    q.push(ThisNode); // also insert into queue
+                    P curr = que.front();
+                    que.pop();
+
+                    int currNode = curr.first;
+                    int currMask = curr.second;
+
+                    for(int adj: graph[currNode])
+                    {
+                        int nextMask = currMask | (1<<adj);  //OR operation
+                        if(nextMask == allVisitedState) return path;
+
+                        if(visited.find({adj, nextMask}) == visited.end())
+                        {
+                            visited.insert({adj, nextMask});
+                            que.push({adj, nextMask});
+                        }
+                    }
                 }
-            }
-            
-        }
-        
-        // return -1, but this condition will never come
-        return -1;
+           }
+           return -1;
     }
 };
-
- // Time Complexity -> O(n + m), where n is the number of nodes and m is the number of edges in the graph.
-// Space Complexity -> O(n * 2^n), primarily due to the space used by the vis set.
